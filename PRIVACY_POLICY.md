@@ -1,4 +1,4 @@
-Privacy Policy
+## Privacy Policy
 Last Updated: June 23, 2024
 
 Folio ("we", "us", "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application ("App"). Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access the App.
